@@ -1,4 +1,12 @@
 ## Hi there 👋
+![Badge](https://shields.io)
+
+![Estatísticas](https://vercel.app)
+
+<details>
+<summary>Clique para ver meus projetos</summary>
+Texto ou lista aqui.
+</details>
 
 <!--
 **gabriel75-svg/gabriel75-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
